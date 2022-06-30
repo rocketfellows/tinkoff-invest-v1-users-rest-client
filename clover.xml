@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1648587867">
-  <project timestamp="1648587867">
-    <metrics files="0" loc="0" ncloc="0" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+<coverage generated="1656450054">
+  <project timestamp="1656450054">
+    <file name="/app/src/GetAccountsInterface.php">
+      <metrics loc="18" ncloc="13" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+    </file>
+    <file name="/app/src/GetInfoInterface.php">
+      <metrics loc="18" ncloc="13" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+    </file>
+    <file name="/app/src/GetMarginAttributesInterface.php">
+      <metrics loc="18" ncloc="13" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+    </file>
+    <file name="/app/src/GetUserTariffInterface.php">
+      <metrics loc="18" ncloc="13" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+    </file>
+    <file name="/app/src/UsersService.php">
+      <class name="rocketfellows\TinkoffInvestV1UsersRestClient\UsersService" namespace="global">
+        <metrics complexity="6" methods="6" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="6" coveredstatements="0" elements="12" coveredelements="0"/>
+      </class>
+      <line num="25" type="method" name="__construct" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="27" type="stmt" count="0"/>
+      <line num="30" type="method" name="getAccounts" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="32" type="stmt" count="0"/>
+      <line num="35" type="method" name="getInfo" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="37" type="stmt" count="0"/>
+      <line num="40" type="method" name="getMarginAttributes" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="42" type="stmt" count="0"/>
+      <line num="45" type="method" name="getUserTariff" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="47" type="stmt" count="0"/>
+      <line num="55" type="method" name="requestMethod" visibility="private" complexity="1" crap="2" count="0"/>
+      <line num="57" type="stmt" count="0"/>
+      <metrics loc="64" ncloc="59" classes="1" methods="6" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="6" coveredstatements="0" elements="12" coveredelements="0"/>
+    </file>
+    <metrics files="5" loc="136" ncloc="111" classes="1" methods="6" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="6" coveredstatements="0" elements="12" coveredelements="0"/>
   </project>
 </coverage>
