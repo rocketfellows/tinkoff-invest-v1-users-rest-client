@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1656622248">
-  <project timestamp="1656622248">
+<coverage generated="1656624173">
+  <project timestamp="1656624173">
     <file name="/app/src/GetAccountsInterface.php">
       <metrics loc="18" ncloc="13" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
