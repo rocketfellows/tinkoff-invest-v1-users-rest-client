@@ -10,7 +10,7 @@ use rocketfellows\TinkoffInvestV1UsersRestClient\UsersService;
 
 abstract class UsersServiceTest extends TestCase
 {
-    private const ACTUAL_SERVICE_NAME = 'OperationsService';
+    private const ACTUAL_SERVICE_NAME = 'UsersService';
     private const EXPECTED_RESPONSE = ['foo'];
 
     /**
