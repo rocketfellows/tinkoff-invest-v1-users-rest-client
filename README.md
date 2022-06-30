@@ -1,4 +1,4 @@
-# Tinkoff Invest V1 operations service rest client
+# Tinkoff Invest V1 users service rest client
 
 ![Code Coverage Badge](./badge.svg)
 
